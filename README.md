@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **LRTimelapse Pro Free MAX**
 
-- 🌱 I’m currently learning **3D Printing, DSO Astrophotography**
+- 🌱 I’m currently learning **3D Printing, DSO Astrophotography, ICE**
 
 - 👨‍💻 All of my projects are available at [https://j3ffrw.github.io/](https://j3ffrw.github.io/)
 
