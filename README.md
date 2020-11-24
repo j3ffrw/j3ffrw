@@ -17,10 +17,20 @@
 
 ### Youtube posts
 <!-- YOUTUBE:START -->
+- [Air Purifier/DIY solder fume extractor](https://www.youtube.com/watch?v=bMeiAw4noeg)
+- [DSO213](https://www.youtube.com/watch?v=AT9-wRlA_IE)
+- [True or false?](https://www.youtube.com/watch?v=pKLDWU6_5oY)
+- [Smart Tower, Mt. Magarwak, Puerto Princesa City](https://www.youtube.com/watch?v=5d_ahJXNyUE)
+- [DSC 0137](https://www.youtube.com/watch?v=kSx0XRSG1vA)
 <!-- YOUTUBE:END -->
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Make KSGER safe](https://j3ffrw.github.io/posts/2020-11-13-make_ksger_safe/)
+- [DIY solder fume extractor](https://j3ffrw.github.io/p509/)
+- [Replacing a Leaking Plug Cylinder Head on a Honda Jazz GD1](https://j3ffrw.github.io/p508/)
+- [Formating Miniware DS213 v1.22 8MB Storage](https://j3ffrw.github.io/p507/)
+- [AC Cleaning](https://j3ffrw.github.io/p506/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
