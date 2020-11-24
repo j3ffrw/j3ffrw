@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jefffermo/](https://www.linkedin.com/in/jefffermo/)
 
-### Blogs posts
+### Youtube posts
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
