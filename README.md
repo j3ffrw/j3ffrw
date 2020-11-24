@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jefferson fermo</h1>
+<h1 align="center">Hi 👋, I'm Jeff</h1>
 <h3 align="center">tinkerer</h3>
 
 - 🔭 I’m currently working on **LRTimelapse Pro Free MAX**
