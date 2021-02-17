@@ -17,11 +17,11 @@
 
 ### Youtube posts
 <!-- YOUTUBE:START -->
+- [Water Purifier Cover - Vase Mode](https://www.youtube.com/watch?v=wdgERX4he_k)
 - [hs110](https://www.youtube.com/watch?v=roLN8giP4cM)
 - [timelapse demo 2](https://www.youtube.com/watch?v=q837Ea9nUJY)
 - [timelapse demo 1](https://www.youtube.com/watch?v=WJx4S8CNE20)
 - [Air Purifier/DIY solder fume extractor](https://www.youtube.com/watch?v=bMeiAw4noeg)
-- [DSO213](https://www.youtube.com/watch?v=AT9-wRlA_IE)
 <!-- YOUTUBE:END -->
 
 ### Blogs posts
