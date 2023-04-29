@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeff</h1>
 <h3 align="center">tinkerer</h3>
 
-- 🔭 I’m currently working on **LRTimelapse Pro Free MAX**
+- 🔭 I’m currently working on **Nomad Consul CFSSL**
 
 - 🌱 I’m currently learning **3D Printing, DSO Astrophotography, ICE**
 
